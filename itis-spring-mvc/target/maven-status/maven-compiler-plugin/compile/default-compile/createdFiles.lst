@@ -1,0 +1,9 @@
+org\kzn\itis\model\Brand.class
+org\kzn\itis\App.class
+org\kzn\itis\HelloWorldConroller.class
+org\kzn\itis\model\BrandManager.class
+org\kzn\itis\validator\CarValidator.class
+org\kzn\itis\CarNewController.class
+org\kzn\itis\CarListController.class
+org\kzn\itis\model\CarManager.class
+org\kzn\itis\model\Car.class
