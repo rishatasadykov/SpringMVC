@@ -1,5 +1,8 @@
 package org.kzn.itis.model;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Brand {
 	private Long id;
 

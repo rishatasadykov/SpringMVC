@@ -5,7 +5,8 @@ import java.util.LinkedList;
 import java.util.List;
 
 import org.kzn.itis.model.Brand;
-
+import org.springframework.stereotype.Component;
+@Component
 public class BrandManager {
 	
 	private static List<Brand> brandList;

@@ -21,7 +21,7 @@
 	    <form:input path="model"/><br /><br />
 	    Price<form:errors path="price" cssClass="error"/><br />
 	    <form:input path="price"/><br /><br />
-	    <input type="submit" value="Submit">
+	    <input type="submit" value="Add car">
 		</form:form>
 	</body>
 </html>

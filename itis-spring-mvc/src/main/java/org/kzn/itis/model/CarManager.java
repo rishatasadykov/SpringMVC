@@ -4,6 +4,8 @@ import java.math.BigDecimal;
 import java.util.LinkedList;
 import java.util.List;
 
+import org.springframework.stereotype.Component;
+@Component
 public class CarManager {
 	private static List<Car> carList;
 
